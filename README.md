@@ -3,7 +3,7 @@
 
 I am a passionate creator who loves exploring different mediums and expressing myself through design, and technology. My main areas of focus include:
 - MERN Stack
-- UI/UX design <br/><br/>Currently, I am learning cloud-based services and looking to collaborate on MERN Stack, UI/UX Design, and Cloud.
+- Javascript Developer <br/><br/>Currently, I am learning cloud-based services and looking to collaborate on MERN Stack, and Cloud.
 
 ## 👨🏻‍💻Skills
 
