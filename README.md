@@ -57,6 +57,6 @@ Feel free to reach out to me if you have any questions or collaboration ideas:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanK1133&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanK1133&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/><br/>
-![](https://komarev.com/ghpvc/?username=heet2312)
+![](https://komarev.com/ghpvc/?username=PriyanK1133)
 <hr/>
 Let's create something amazing together😊!
