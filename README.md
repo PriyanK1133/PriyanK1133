@@ -1,15 +1,15 @@
 ## 🧑🏻‍💼 About Me
 
-I'm a passionate full-stack developer who loves building modern, scalable, and performant web applications. I specialize in the **MERN Stack** and JavaScript frameworks, with a growing interest in **cloud technologies** and real-time applications. I'm currently exploring **Angular**, **Firebase**, and **PostgreSQL**.
+I'm a passionate full-stack developer who loves building modern, scalable, and performant web applications. I specialize in the **MERN Stack** and JavaScript frameworks, with a growing interest in **AI/ML** and real-time applications. I'm currently exploring **Angular**, **Firebase**, and **AI/ML**.
 
 🌱 I’m currently learning:  
-`Cloud Services (Firebase, AWS)`, `PostgreSQL`, `Advanced Angular`
+`AI/ML`, `Data Science`, `Advanced Angular`
 
 💬 Ask me about:  
-`JavaScript`, `React`, `Angular`, `Node.js`, `MongoDB`, `Firebase`, `Clean Architecture`, `Real-time Apps`
+`JavaScript`, `React`, `Angular`,`ASP.Net`, `Node.js`, `MongoDB`, `Firebase`, `Clean Architecture`, `Real-time Apps`
 
 🚀 Looking to collaborate on:  
-`MERN Stack Projects`, `Angular + .NET`, `Cloud-based Applications`, `Open Source Contributions`
+`MERN Stack Projects`, `Angular + .NET`, `Open Source Contributions`
 
 ---
 
@@ -46,7 +46,7 @@ I'm a passionate full-stack developer who loves building modern, scalable, and p
 
 ### 🧠 Problem Solving & Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
