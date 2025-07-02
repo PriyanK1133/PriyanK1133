@@ -3,7 +3,7 @@
 I'm a passionate full-stack developer who loves building modern, scalable, and performant web applications. I specialize in the **MERN Stack** and JavaScript frameworks, with a growing interest in **AI/ML** and real-time applications. I'm currently exploring **Angular**, **Firebase**, and **AI/ML**.
 
 🌱 I’m currently learning:  
-`AI/ML`, `Data Science`, `Advanced Angular`
+`AI/ML`, `Data Science`, `Advanced Angular`, `Python`
 
 💬 Ask me about:  
 `JavaScript`, `React`, `Angular`,`ASP.Net`, `Node.js`, `MongoDB`, `Firebase`, `Clean Architecture`, `Real-time Apps`
